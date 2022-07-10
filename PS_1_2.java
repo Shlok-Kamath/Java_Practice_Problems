@@ -1,6 +1,8 @@
+//Write a program to calculate CGPA using marks of three subjects (out of 100)
+
 import java.util.Scanner;
 
-public class CWH_Practice_Problems {
+public class Practice_Problems {
 
     public static void main(String[] args) {
         // Initialize integers
