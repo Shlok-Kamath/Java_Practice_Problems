@@ -1,6 +1,8 @@
+//Write a program to sum three numbers in Java
+
 import java.util.Scanner;
 
-public class CWH_Practice_Problems {
+public class Practice_Problems {
 
     public static void main(String[] args) {
         // Initialize integers
