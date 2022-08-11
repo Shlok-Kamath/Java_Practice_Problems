@@ -1,4 +1,4 @@
- public class CWH_Practice_Problems {
+ public class Practice_Problems {
 
     public static void main(String[] args) {
         int n;
